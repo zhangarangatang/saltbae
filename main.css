@@ -1,0 +1,22 @@
+h1{
+  color: red;
+  font-size: 50px;
+}
+h2{ 
+  color: blue
+}
+img {
+  height:400;
+  width:600;
+}
+
+body {
+  background:url("https://media.tenor.co/images/4ec2a04fd4553fd23d4742108889037c/tenor.gif")
+
+}
+#intro{
+  text-align: center;
+}
+#bio{
+  color: yellow;
+  
